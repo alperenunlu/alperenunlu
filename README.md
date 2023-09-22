@@ -3,7 +3,6 @@
 
 # 💫 About Me:
 - 🌱 I’m currently learning **Reinforcement Learning**
-- 👨‍💻 All of my projects are available at [github](GitHub.com/alperenunlu)
 - 💬 Ask me about **Deep Learning, Machine Learning, Pytorch, Tensorflow**
 - ⚡ Fun fact **I love Philosophy**
 
