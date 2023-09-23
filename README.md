@@ -8,7 +8,7 @@
 
 
 
-## 🌐 Feel free to connect on:
+## 🌐 Connect with Me:
 <a href="https://huggingface.co/alperenunlu" target="blank"><img align="center" src="https://huggingface.co/landing/assets/transformers-docs/huggingface_logo.svg" alt="alperenunlu" height="30" width="40" /></a>
 <a href="https://twitter.com/alperen__unlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alperen__unlu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/unlualperen" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="unlualperen" height="30" width="40" /></a>
