@@ -1,14 +1,3 @@
-<h1 align="center">Hi 👋, I'm Alperen</h1>
-<h3 align="center">A passionate Deep Learning Engineer</h3>
-
-# 💫 About Me:
-- 🌱 I’m currently learning **Reinforcement Learning**
-- 💬 Ask me about **Deep Learning, Machine Learning, Pytorch, Tensorflow**
-- ⚡ Fun fact **I love Philosophy**
-
-
-
-
 # 🌐 Connect with Me:
 <a href="https://huggingface.co/alperenunlu" target="blank"><img align="center" src="https://huggingface.co/landing/assets/transformers-docs/huggingface_logo.svg" alt="alperenunlu" height="30" width="40" /></a>
 <a href="https://twitter.com/alperen__unlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alperen__unlu" height="30" width="40" /></a>
@@ -48,9 +37,3 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alperenunlu&show_icons=true&locale=en" alt="alperenunlu" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alperenunlu&" alt="alperenunlu" /></p> -->
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alperenunlu&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=alperenunlu&icon=2&color=1)](https://visitcount.itsvg.in)
